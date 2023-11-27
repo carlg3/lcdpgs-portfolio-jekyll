@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-# Contatti
+# Contact
 
 **Luci di Pegaso** si trova a
 
